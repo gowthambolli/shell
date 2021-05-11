@@ -1,3 +1,3 @@
 # CREATE FOLDER AND WRITE TO A FILE
-mkdir hello
+mkdir helloworld
 touch "hello/world.txt"
